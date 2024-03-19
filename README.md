@@ -173,8 +173,10 @@
     <li><a href="https://briarproject.org/">Briar</a></li>
      <p>Briar é uma tecnologia de comunicação de software livre, destinada a fornecer comunicações peer-to-peer seguras e resilientes.</p>
      <li><a href="https://element.io/">Element</a></li>
-     <p>Element é um cliente de mensagens instantâneas de software livre e de código aberto que implementa o protocolo Matrix.</li>
-    <li><a href="https://mysudo.com/">My Sudo</a></li>
+     <p>Element é um cliente de mensagens instantâneas de software livre e de código aberto que implementa o protocolo Matrix.</p>
+    <li><a href="https://telegram.org/">Telegram</a></li>
+     <p>O Telegram é um serviço de mensagens instantâneas baseado na nuvem. </p>
+     <li><a href="https://mysudo.com/">My Sudo</a></li>
      <p>MySudo permite criar e gerenciar múltiplos Sudos; cada um com um número de telefone, identificador e endereço de e-mail.</p>
     <li><a href="https://getsession.org/">Session</a></li>
      <p>Session é um aplicativo de mensagens instantâneas criptografadas de ponta a ponta multiplataforma.</p>
@@ -182,7 +184,9 @@
      <p>Use este site para comparar Aplicativos de Mensagens Seguras.</p>
     <li><a href="https://signal.org/">Signal</a></li>
      <p>Signal é um serviço de mensagens criptografadas para mensagens instantâneas, chamadas de voz e vídeo.</p>
-    <li><a href="https://threema.ch/en">Threema</a></li>
+    <li><a href="https://signal.org/">Signal</a></li>
+     <p>Signal é um serviço de mensagens criptografadas para mensagens instantâneas, chamadas de voz e vídeo.</p>     
+      <li><a href="https://threema.ch/en">Threema</a></li>
      <p>Threema é um aplicativo de mensagens instantâneas criptografado multiplataforma pago desenvolvido pela Threema GmbH na Suíça.</p>
     <li><a href="https://wire.com/en/">Wire</a></li>
      <p>Wire é um aplicativo de comunicação e colaboração criptografado criado pela Wire Swiss.</p>
@@ -215,7 +219,7 @@
     <p>É uma distribuição Linux com foco em segurança para desktops com o objetivo de prover segurança através de isolamento. O motor de virtualização é o Xen, e os ambientes isolados criados pelo usuário podem ser baseados no Fedora, Debian, Whonix e Windows</p>
     <li><a href="https://guiafoca.org/"> GuiaFoca</a></li>
     <p>O GuiaFoca é um guia que traz desde explicações básicas sobre computadores e o sistema GNU/Linux até a administração e segurança do sistema. Os assuntos do guia são explicados em linguagem clara e organizados de forma linear e didática, evitando termos técnicos nos níveis iniciais, até que o usuário se habitue com sua utilização de forma gradual.</p>
-    
+
 
  </ul>
   <br></br>
