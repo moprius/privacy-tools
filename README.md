@@ -285,4 +285,10 @@
      <p>Combina conceitos de blockchain com microblogging, proporcionando uma plataforma descentralizada e segura, similar ao Twitter, mas sem controle centralizado..</p>
    <li><a href="https://retroshare.cc/">RetroShare</a></li>
      <p>Uma plataforma de comunicação criptografada e descentralizada que permite compartilhamento de arquivos, e-mail, e criação de fóruns e canais.</p>
+   <li><a href="http://www.slsknet.org/">Soulseek</a></li>
+     <p>Uma rede de compartilhamento de arquivos criada em 2002 por Nir Abel para a troca de músicas, acessível por softwares cliente de mesmo nome. </p>
+   <li><a href="https://www.demonsaw.com/">Demonsaw</a></li>
+     <p>Um aplicativo de compartilhamento seguro, anônimo, gratuito e descentralizado com criptografia ponta a ponta e sem cliente P2P.
+ </p>     
+     
  </ul>
