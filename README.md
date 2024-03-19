@@ -185,7 +185,7 @@
     <li><a href="https://signal.org/">Signal</a></li>
      <p>Signal é um serviço de mensagens criptografadas para mensagens instantâneas, chamadas de voz e vídeo.</p>
     <li><a href="https://signal.org/">Signal</a></li>
-     <p>Signal é um serviço de mensagens criptografadas para mensagens instantâneas, chamadas de voz e vídeo.</p>     
+     <p>Signal é um serviço de mensagens criptografadas para mensagens instantâneas, chamadas de voz e vídeo.</p>
       <li><a href="https://threema.ch/en">Threema</a></li>
      <p>Threema é um aplicativo de mensagens instantâneas criptografado multiplataforma pago desenvolvido pela Threema GmbH na Suíça.</p>
     <li><a href="https://wire.com/en/">Wire</a></li>
@@ -269,10 +269,8 @@
      <p>Misskey é uma plataforma de mídia social descentralizada e de código aberto que é gratuita para sempre!</p>
    <li><a href="https://www.funkwhale.audio/">Funkwhale</a></li>
      <p>Uma plataforma descentralizada de audio ao estilo de Spotify</p>
-   <li><a href="https://pleroma.social/">Pleoroma</a></li>
-     <p>Uma plataforma de microblogging livre e descentralizada, compatível com o Mastodon e outras redes baseadas no protocolo ActivityPub</p>
-   <li><a href="https://pleroma.social/">Pleoroma</a></li>
-     <p>Uma plataforma de microblogging livre e descentralizada, compatível com o Mastodon e outras redes baseadas no protocolo ActivityPub</p>
+   <li><a href="https://odysee.com/">Odysee</a></li>
+     <p>É uma plataforma de compartilhamento de vídeos baseada na tecnologia blockchain</p>
    <li><a href="https://pixelfed.org/">Pixelfed</a></li>
      <p>Semelhante ao Instagram, mas descentralizado, focado na privacidade e sem anúncios, promovendo uma experiência de compartilhamento de fotos mais segura.</p>
    <li><a href="https://joinpeertube.org/pt_BR">PeerTube</a></li>
@@ -289,6 +287,6 @@
      <p>Uma rede de compartilhamento de arquivos criada em 2002 por Nir Abel para a troca de músicas, acessível por softwares cliente de mesmo nome. </p>
    <li><a href="https://www.demonsaw.com/">Demonsaw</a></li>
      <p>Um aplicativo de compartilhamento seguro, anônimo, gratuito e descentralizado com criptografia ponta a ponta e sem cliente P2P.
- </p>     
-     
+ </p>
+
  </ul>
