@@ -274,7 +274,7 @@
    <li><a href="https://pixelfed.org/">Pixelfed</a></li>
      <p>Semelhante ao Instagram, mas descentralizado, focado na privacidade e sem anúncios, promovendo uma experiência de compartilhamento de fotos mais segura.</p>
    <li><a href="https://joinpeertube.org/pt_BR">PeerTube</a></li>
-     <p>Uma rede social descentralizada que se assemelha ao Twitter, permitindo que os usuários escolham servidores específicos com diferentes regras e políticas de privacidade.</p>
+     <p>É uma plataforma de vídeo livre, descentralizada e federada operada por ActivityPub e WebTorrent que usa a tecnologia peer-to-peer para reduzir o estresse em servidores individuais ao assistir vídeos.</p>
    <li><a href="https://getaether.net/">Aether</a></li>
      <p>Uma plataforma de discussão e fórum descentralizado e peer-to-peer que foca na privacidade e na temporalidade dos conteúdos, que desaparecem após um tempo.</p>
    <li><a href="https://www.manyver.se/">Manyverse</a></li>
